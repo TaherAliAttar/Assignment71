@@ -1,0 +1,15 @@
+{
+  "name": "css-minification",
+  "version": "1.0.0",
+  "description": "app to minify and combine css files",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Taher",
+  "license": "ISC",
+  "devDependencies": {
+    "grunt": "^1.0.1",
+    "grunt-contrib-cssmin": "^2.2.1"
+  }
+}
